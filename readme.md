@@ -1,14 +1,11 @@
-# Hi there, I'm Diego! 👋
+Nome do Projeto
 
-I am an **Analysis and Systems Development (ADS)** student at UDF, building my career with a focus on **Backend (Java)** and **Artificial Intelligence**.
+Fiz esse codigo com intenção de voltar a codar, agora não só em jhava mas em outras linguagens por conta da facul.
 
-Currently, I am preparing for internship opportunities in AI and software development, creating hands-on projects that combine programming logic, databases, and automation.
+Objetivo:
 
-### 🛠️ My Tech Stack
-- **Languages:** Java, Python, C, SQL
-- **Database:** MySQL
-- **Tools:** Git, GitHub, VS Code, MySQL Workbench
-- **AI:** Studies in LLMs, Prompt Engineering, and API integration.
+Primeira pratica de java depois de meses parado por desanimo.
+🛠️ Tecnologias
 
-### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/diego-o-nascimento-088a46433/)
+    Java 17
+    Git
