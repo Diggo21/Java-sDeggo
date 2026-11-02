@@ -1,11 +1,21 @@
-Nome do Projeto
+# Estudos de Java e Programação Orientada a Objetos (POO)
 
-Fiz esse codigo com intenção de voltar a codar, agora não só em jhava mas em outras linguagens por conta da facul.
+Este repositório foi criado para consolidar meus estudos em Java. Ele marca o meu retorno à programação e a aplicação prática dos pilares da Orientação a Objetos.
 
-Objetivo:
+## 🎯 Objetivo
+Praticar a criação de classes, atributos, métodos, construtores e encapsulamento, construindo uma base sólida para o desenvolvimento Backend.
 
-Primeira pratica de java depois de meses parado por desanimo.
-🛠️ Tecnologias
+## 🛠️ Tecnologias Utilizadas
+- Java 17
+- Git e GitHub
 
-    Java 17
-    Git
+## 📂 Estrutura do Projeto
+- `personagem.java`: Classe que modela um personagem, aplicando conceitos de atributos privados, construtor e métodos de exibição.
+
+## ▶️ Como Executar
+1. Clone este repositório.
+2. Abra a pasta no VS Code.
+3. Execute o arquivo `personagem.java` (certifique-se de ter o JDK instalado).
+
+## 👤 Autor
+Diego - [GitHub](https://github.com/Diggo21)
